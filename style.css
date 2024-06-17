@@ -1,0 +1,9 @@
+#pokeImg.silhouette {
+	filter: brightness(0);
+	transition: filter 0s;
+}
+
+#pokeImg {
+	transition: filter 0.2s;
+	filter: brightness(1);
+}
